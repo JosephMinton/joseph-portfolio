@@ -1,3 +1,15 @@
 theme: jekyll-theme-cayman
 title: Joseph's Cybersecurity Portfolio
 description: A place to share my labs, blog posts, and professional growth.
+
+navigation:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog/
+  - title: Labs
+    url: /labs/
+  - title: Resume
+    url: /Joseph_Minton_Resume.pdf
+  - title: Contact
+    url: /#contact
