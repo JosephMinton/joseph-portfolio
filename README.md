@@ -22,7 +22,7 @@ Through hands on labs, certifications, and constant learning, I’m building the
 ---
 
 ## 📄 Resume
-👉 [Download My Resume (PDF)](#)
+👉 [Download My Resume (PDF)](Joseph_Minton_Resume.pdf)
 
 ---
 
