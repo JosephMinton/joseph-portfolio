@@ -1,5 +1,9 @@
 # Joseph Minton
 
+[Home](/) | [Blog](/blog/) | [Labs](/labs/) | [Resume](/Joseph_Minton_Resume.pdf) | [Contact](#contact)
+---
+
+
 🎯 **Aspiring Cybersecurity Professional** | CompTIA Security+ (in progress)  
 📍 Charlotte, NC | 🌐 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/josephkdminton/)) | 🧑‍💻 [GitHub]([https://github.com/your-username](https://github.com/JosephMinton))
 
