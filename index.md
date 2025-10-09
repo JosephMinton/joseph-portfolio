@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Joseph Minton
 
 [Home](/) | [Blog](/blog/) | [Labs](/labs/) | [Resume](/Joseph_Minton_Resume.pdf) | [Contact](#contact)
