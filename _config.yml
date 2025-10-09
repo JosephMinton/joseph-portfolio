@@ -1,3 +1,6 @@
+url: "https://josephminton.github.io"
+baseurl: ""  # leave this empty when using a user site
+
 theme: jekyll-theme-cayman
 title: Joseph's Cybersecurity Portfolio
 description: A place to share my labs, blog posts, and professional growth.
